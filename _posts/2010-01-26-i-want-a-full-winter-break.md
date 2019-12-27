@@ -9,7 +9,7 @@ title: 我要一个充实的寒假
 
 接下来要看看自己寒假得干点什么了。1月份快过去了，窗边上堆了一大堆书要在寒假里搞定。
 
-![](/blog/images/post_images/20100126/winter_break.jpeg)
+![](/images/post_images/20100126/winter_break.jpeg)
 
 毕业设计，我要在开题报告前完成一大半才行，开题报告这个流程被学院设得太晚了。
 

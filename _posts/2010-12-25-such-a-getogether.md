@@ -21,22 +21,22 @@ title: 这样的相逢一定要记录
 
 ## 回忆板块
 美国小组照（Frau Chen und Frau Tan）
-![美国](/blog/images/post_images/20101225/001.jpg)
+![美国](/images/post_images/20101225/001.jpg)
 
 材料学院毕业典礼，我就像个没资格毕业的那种=。=（另一个没穿学士服的MM是纺院的），从我左手开始，Frau Qian, Frau Chen, Frau Shen, Frau Tan
-![防](/blog/images/post_images/20101225/002.jpg)
+![防](/images/post_images/20101225/002.jpg)
 
 我跟外语学院的高中校友Frau Cai
-![蔡](/blog/images/post_images/20101225/003.jpg)
+![蔡](/images/post_images/20101225/003.jpg)
 
 我跟环境学院大帅哥Herr Liang
-![梁](/blog/images/post_images/20101225/004.jpg)
+![梁](/images/post_images/20101225/004.jpg)
 
 我跟信息学院的酒窝美女Frau …（她不让说）
-![王](/blog/images/post_images/20101225/005.jpg)
+![王](/images/post_images/20101225/005.jpg)
 
 雨中哥太销魂了（Herr Wu）
-![吴](/blog/images/post_images/20101225/006.jpg)
+![吴](/images/post_images/20101225/006.jpg)
 
 跟剩下的一位合影的大概就这张~~（Frau Hu）
-![胡](/blog/images/post_images/20101225/007.jpg)
+![胡](/images/post_images/20101225/007.jpg)

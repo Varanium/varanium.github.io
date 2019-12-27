@@ -17,7 +17,7 @@ title: 人之战场
 
 电脑桌面改了，比较牛X
 
-![人之战场](/blog/images/post_images/20090412/desktop_screenshot.jpeg)
+![人之战场](/images/post_images/20090412/desktop_screenshot.jpeg)
 
 正如昨天晚上MOMO学妹对我说的那样，既然走上这条路了，就拼一下吧，不要辜负自己。
 

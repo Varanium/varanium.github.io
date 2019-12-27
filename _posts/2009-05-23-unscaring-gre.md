@@ -12,7 +12,7 @@ title: 不可怕的GRE
 
 这不就是考研么~~~~那就好好准备呗~~~~我要让ETS在我锋利的头镖前颤抖！
 
-![变身](/blog/images/post_images/20090523/seven_transform.gif)
+![变身](/images/post_images/20090523/seven_transform.gif)
 
 Joooooooooo~~~~~~~~~~~~~~~~~~
 

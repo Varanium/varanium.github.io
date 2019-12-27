@@ -9,7 +9,7 @@ title: 大地将会鸣泣4
 
 不过看照片还是有点小凶残啊
 
-![碎玻璃](/blog/images/post_images/20110829/001.jpg)
-![树叶子](/blog/images/post_images/20110829/002.jpg)
+![碎玻璃](/images/post_images/20110829/001.jpg)
+![树叶子](/images/post_images/20110829/002.jpg)
 
 过一会装空调。。。

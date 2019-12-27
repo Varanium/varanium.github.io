@@ -9,15 +9,15 @@ title: 大地将会鸣泣2
 
 昨天晚上我就开始买了一些熟食，今天中午按照要求卸掉了空调，下午下班后先去Alex家帮他卸空调、收拾东西，让他安心去弗吉尼亚他老婆那~随后我去M2M饺子和馒头，回去的路上，朝Uptown方向车水马龙，而downtown方向基本是空的。
 
-![001](/blog/images/post_images/20110827/001.jpg)
-![002](/blog/images/post_images/20110827/002.jpg)
-![003](/blog/images/post_images/20110827/003.jpg)
-![004](/blog/images/post_images/20110827/004.jpg)
+![001](/images/post_images/20110827/001.jpg)
+![002](/images/post_images/20110827/002.jpg)
+![003](/images/post_images/20110827/003.jpg)
+![004](/images/post_images/20110827/004.jpg)
 
 晚上超市来回了几次，人暴多，不过大多数商品还是供应的。。。
-![005](/blog/images/post_images/20110827/005.jpg)
+![005](/images/post_images/20110827/005.jpg)
 但是面包。。。（可惜手抖了下，没拍清楚）
-![006](/blog/images/post_images/20110827/006.jpg)
+![006](/images/post_images/20110827/006.jpg)
 
 晚上回家开始给所有有通讯功能的东西进行充电~两台电脑三个iOS设备还有Kindle、N年前的iRiverMP3（有收音机功能）全部充满，我也写了计划表，打算在全城断电的时候室友们轮流开机通讯。
 

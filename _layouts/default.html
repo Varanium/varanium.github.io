@@ -10,12 +10,12 @@
     {% if page.previous.url or page.next.url%}
     <hr/>
     <div class="PageNavigation">
-        <a href="/blog/">返回主页</a>
+        <a href="/">返回主页</a>
         <table border="0">
             <tr>
                 <td>
                     {% if page.next.url %}
-                    <a href="/blog{{page.next.url}}">新篇：{{page.next.title}}</a>
+                    <a href="/{{page.next.url}}">新篇：{{page.next.title}}</a>
                     {% else %}
                     <div class="PageNavFail">已经是最新一篇了</div>
                     {% endif %}
@@ -24,7 +24,7 @@
             <tr>
                 <td>
                     {% if page.previous.url %}
-                    <a href="/blog{{page.previous.url}}">旧篇：{{page.previous.title}}</a>
+                    <a href="/{{page.previous.url}}">旧篇：{{page.previous.title}}</a>
                     {% else %}
                     <div class="PageNavFail">已经是最旧一篇了</div>
                     {% endif %}

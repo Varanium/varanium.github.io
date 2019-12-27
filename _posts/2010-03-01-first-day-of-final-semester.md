@@ -9,7 +9,7 @@ title: 最后一个学期开学第一天
 在二楼期刊阅览室，笔记本搜到了三楼的网，我还在诧异怎么会有这么强大的信号呢，仔细一看，发现学校貌似有钱了，居然用起了802.11n！唯一美中不足的是，学校的某位大大又搞错了Library的拼法。
 有图为证：
 
-![有图](/blog/images/post_images/20100301/wrongspelling.png)
+![有图](/images/post_images/20100301/wrongspelling.png)
 
 在学校里有大段大段的时间供我编程<br/>
 现在在MATLAB上忙着<br/>
