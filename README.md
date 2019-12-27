@@ -1,2 +1,2 @@
-# varanium.github.io
-Blog site
+# blog
+Blog Posts
