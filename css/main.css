@@ -6,7 +6,7 @@ body {
     width: 50%;
     line-height: 150%;
     border: 1px solid LightGrey;
-    background-image:url('/blog/images/title_images/haruna_daijoubu.png'),url('/blog/images/title_images/mengbai.png'),url('/blog/images/title_images/taihou.png');
+    background-image:url('/images/title_images/haruna_daijoubu.png'),url('/images/title_images/mengbai.png'),url('/images/title_images/taihou.png');
     background-repeat:no-repeat,no-repeat,no-repeat;
     background-size: 665px 121px,180px 178px,408px 579px;
     background-position:top,bottom left,bottom right;
